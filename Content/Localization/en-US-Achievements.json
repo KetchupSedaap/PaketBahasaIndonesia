@@ -1,0 +1,18 @@
+{
+	"Achievements": {
+		"Completed": "Pencapaian terperoleh! {0}",
+		"ALL_TOWN_SLIMES_Name": "Mitosis Slime Agung",
+		"ALL_TOWN_SLIMES_Description": "Temukan semua Slime peliharaan dan buat mereka pindah ke rumahmu!",
+		"ARCHAEOLOGIST_Name": "Arkeolog",
+		"ARCHAEOLOGIST_Description": "Bunuh Dokter Bones",
+		"BEHIND_THE_MASK_Name": "Di Balik Topeng",
+		"BEHIND_THE_MASK_Description": "Bunuh si Cultist gila, seorang penyihir sesat dengan mantra-mantra yang kuat.",
+		"BENCHED_Description": "Buatlah meja kerja pertama mu.",
+		"BUCKETS_OF_BOLTS_Name": "Ember Baut",
+		"BUCKETS_OF_BOLTS_Description": "Taklukkan ketiga ancaman mekanis nokturnal: the Twins, the Destroyer, dan Skeletron Prime.",
+		"BULLDOZER_Name": "Buldoser",
+		"BULLDOZER_Description": "Hancurkan 10.000 balok.",
+		"YOU_AND_WHAT_ARMY_Name": "Kau dan Pasukan Apa?",
+		"YOU_AND_WHAT_ARMY_Description": "Perintahkan sembilan buah prajurit sekaligus."
+	}
+}
