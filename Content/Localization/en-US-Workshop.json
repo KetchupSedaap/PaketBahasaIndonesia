@@ -1,0 +1,31 @@
+{
+	"Workshop": {
+		"Publish": "Terbitkan",
+		"CategoryTitleDisclaimer": "Perjanjian Layanan",
+		"CategoryTitlePublicity": "Visibilitas",
+		"CategoryTitleTags": "Penanda",
+		"PreviewImagePathDescription": "Pilih gambar pratinjau untuk barang ini,\ngambar ini akan ditampilkan saat menjelajahi workshop (ukuran maks 512x512)",
+		"PreviewImagePathEmpty": "Kosong",
+		"PreviewImagePathTitle": "Gambar:",
+		"EnterNewNameForImportedWorld": "Masukkan Nama Dunia",
+		"HubDescriptionDefault": "Pilih opsi untuk informasi lebih lanjut.",
+		"HubDescriptionImportWorlds": "Unduh dunia yang telah anda langgani dari Workshop Steam ke daftar dunia anda sendiri, supaya anda dapat jelajahi mereka.",
+		"HubDescriptionPublishResourcePacks": "Terbitkan Paket Sumber Daya anda ke Workshop Steam, agar orang lain dapat menikmatinya.",
+		"HubDescriptionPublishWorlds": "Terbitkan Dunia anda ke Workshop Steam, agar orang lain dapat menikmatinya.",
+		"HubDescriptionUseResourcePacks": "Gunakan Paket Sumber Daya yang telah anda unduh atau langgani dari Workshop Steam, agar anda bisa menikmati seni dan terjemahan mereka.",
+		"HubPublishResourcePacks": "Terbitkan Paket Sumber Daya",
+		"HubPublishWorlds": "Teribitkan Dunia",
+		"HubResourcePacks": "Pakai Paket Sumber Daya",
+		"HubWorlds": "Unduh Dunia",
+		"InfoDescriptionDefault": "Silahkan pilih bagaimana barang anda akan diterbitkan dengan opsi-opsi di atas",
+		"SteamDisclaimerDescrpition": "Buka laman penuh ketentuan layanan steam\nHarap unggah konten secara bertanggung jawab"
+	},
+	"WorkshopTags": {
+		"AllItemsWorlds": "Semua Barang",
+		"AllItemsWorldsDescription": "Dunia dimana anda dapat menemukan semua barang di peti-peti.",
+		"LanguageTranslations": "Terjemahan",
+		"LanguageTranslationsDescription": "Paket sumber daya yang mengganti terjemahan, ataupun menambah terjemahan baru!",
+		"Music": "Musik",
+		"MusicDescription": "Paket sumber daya yang merubah musik Terraria, memberi atmosfer baru!"
+	}
+}
