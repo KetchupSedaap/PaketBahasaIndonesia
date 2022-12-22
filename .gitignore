@@ -1,2 +1,4 @@
 Content/Localization/*
 !Content/Localization/*.json
+
+.*/
