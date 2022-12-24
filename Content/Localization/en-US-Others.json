@@ -1,0 +1,77 @@
+{
+	"Announcement": {
+		"HasArrived": "{0} telah datang!",
+		"HasAwoken": "{0} telah bangkit!",
+		"HasBeenDefeated_Plural": "{0} telah dikalahkan!",
+		"HasBeenDefeated_Single": "{0} telah dikalahkan!"
+	},
+	"AssetRejections": {
+		"BadExtension": "Hanya tekstur dengan tipe '.png' dan '.xnb' bisa dimuat.",
+		"BadSize": "Tekstur yang dimuat mesti sesuai dengan ukuran aslinya, membutuhkan ({NeededWidth}, {NeededHeight}) tetapi mendapat ({ActualWidth}, {ActualHeight})."
+	},
+	"CaptureBiomeChoice": {
+		"0": "Otomatis",
+		"1": "Kemurnian",
+		"12": "Padang Jamur Berkilau"
+	},
+	"Controls": {
+		"LeftClick": "Klik Kiri",
+		"RightClick": "Klik Kanan"
+	},
+	"Currency": {
+		"Copper": "Koin Tembaga",
+		"Silver": "Koin Perak",
+		"Gold": "Koin Emas",
+		"Platinum": "Koin Platina",
+		"DefenderMedals": "Medali Pembela"
+	},
+	"DungeonDefenders2": {
+		"InvasionWin": "The old one's army telah ditaklukkan!",
+		"WaveComplete": "Serangan Tertahan!",
+		"WaveCompleteFirst": "Serangan Tertahan! Berinteraksi dengan kristal untuk mempercepat gelombang berikutnya!"
+	},
+	"Error": {
+		"BadHeaderBufferOverflow": "Header jelek mengakibatkan read buffer overflow.",
+		"CaptureError": "Terjadi error selagi menyimpan tangkapan layar. Mencoba lagi...",
+		"DataSentAfterConnectionLost": "Error mencoba untuk mengirim data ke klien setelah kehilangan koneksi",
+		"InvalidLobbyFlag": "Penanda -lobby digunakan tanpa \"{0}\" atau \"{1}\". Mengabaikannya.",
+		"LaunchFromSteam": "Tolong jalankan game dari klien Steam.",
+		"LoadFailed": "Gagal memuat!",
+		"LoadFailedNoBackup": "Gagal memuat! Tidak ada cadangan yang ditemukan.",
+		"NetMessageError": "Error di pesan: {0}",
+		"ServerCrash": "Server crash: {0}\n{1}\n\nTolong kirim crashlog.txt ke support@terraria.org",
+		"TriedToRunServerTwice": "Error mencoba menjalankan dua server di komputer yang sama",
+		"UnableToCapture": "Tidak dapat menangkap layar.",
+		"UnableToLoadWorld": "Tidak dapat memuat dunia:",
+		"UnableToWritePreferences": "Tidak dapat menulis file pada: {0}"
+	},
+	"Friends": {
+		"TownBunny": "Kelinci Pedesaan",
+		"TownCat": "Kucing Pedesaan",
+		"TownDog": "Anjing Pedesaan",
+		"TownSlime": "Slime Pedesaan"
+	},
+	"RichPresence": {
+		"InMainMenu": "Di Menu Utama",
+		"CreatingPlayer": "Membuat Pemain",
+		"CreatingWorld": "Membuat Dunia",
+		"PlayingMulti": "Sedang Bermain Bersama",
+		"PlayingSingle": "Sedang Bermain Sendiri",
+		"Spaghet": "Memasak Spageti"
+	},
+	"Social": {
+		"Joining": "Sedang Masuk...",
+		"JoiningFriend": "Sedang Masuk Dunia {0}...",
+		"StatusInGame": "Sedang Bermain Online.",
+		"StatusJoining": "Sedang Memasuki Permainan."
+	},
+	"StardewTalk": {},
+	"TitleLinks": {
+		"Forums": "Forum",
+		"Merch": "Toko"
+	},
+	"Key": {
+		"DOWN": "BAWAH",
+		"UP": "ATAS"
+	}
+}
