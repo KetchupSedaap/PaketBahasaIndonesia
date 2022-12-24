@@ -1,0 +1,23 @@
+{
+	"CommonItemTooltip": {
+		"CreativeSacrificeNeeded": "Riset {0} lagi untuk membuka duplikasi",
+		"GolfBall": "Dapat dipukul dengan tongkat golf",
+		"PlaceableOnXmasTree": "Dapat diletakkan di pohon natal",
+		"RestoresLife": "Memulihkan {0} nyawa",
+		"RestoresLifeRange": "Memulihkan dari {0} sampai {1} nyawa",
+		"RestoresMana": "Memulihkan {0} mana",
+		"RightClickToClose": "<right> untuk menutup",
+		"RightClickToOpen": "<right> untuk membuka",
+		"String": "Meningkatkan jarak yoyo",
+		"UsesLife": "Menggunakan {0} nyawa",
+		"UsesMana": "Menggunakan {0} mana"
+	},
+	"LegacyTooltip": {
+		"33": "Dapat Diletakkan",
+		"34": "Amunisi",
+		"49": "Harga jual:",
+		"50": "Harga beli:",
+		"51": "Tidak ada harga",
+		"56": "Tertanda sebagai favorit"
+	}
+}
