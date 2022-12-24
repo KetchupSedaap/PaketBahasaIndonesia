@@ -1,0 +1,12 @@
+{
+	"GameUI": {
+		"Bestiary": "Buka Bestiary",
+		"CompassCenter": "Tengah",
+		"CompassEast": "{0} kaki Timur",
+		"CompassWest": "{0} kaki Barat",
+		"EastWind": " ({0} mil/jam T)",
+		"Speed": "{0} mil/jam",
+		"UIScale": "Skala UI: {0}% ({1}%)",
+		"WestWind": " ({0} mil/jam B)"
+	}
+}
