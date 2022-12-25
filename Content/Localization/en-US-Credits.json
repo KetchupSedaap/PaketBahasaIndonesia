@@ -1,0 +1,38 @@
+{
+	"CreditsRollCategory_EndingNotes": {
+		"1": "Terima kasih telah bermain!"
+	},
+	"CreditsRollCategory_Creator": {
+		"1": "Pencipta"
+	},
+	"CreditsRollCategory_Designer": {
+		"1": "Disainer"
+	},
+	"CreditsRollCategory_ExecutiveProducer": {
+		"1": "Produser Eksekutif"
+	},
+	"CreditsRollCategory_Graphics": {
+		"1": "Grafis"
+	},
+	"CreditsRollCategory_Marketing": {
+		"1": "Pemasaran"
+	},
+	"CreditsRollCategory_Music": {
+		"1": "Musik"
+	},
+	"CreditsRollCategory_Programming": {
+		"1": "Pemrograman"
+	},
+	"CreditsRollCategory_PublicRelations": {
+		"1": "Humas"
+	},
+	"CreditsRollCategory_QualityAssurance": {
+		"1": "Asuransi Kualitas"
+	},
+	"CreditsRollCategory_Sound": {
+		"1": "Suara"
+	},
+	"CreditsRollCategory_SpecialThanksto": {
+		"1": "Terima Kasih Khusus kepada"
+	}
+}
