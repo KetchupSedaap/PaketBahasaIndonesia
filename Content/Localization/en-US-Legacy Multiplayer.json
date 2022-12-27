@@ -1,0 +1,28 @@
+{
+	"LegacyMultiplayer": {
+		"0": "Menerima:",
+		"1": "Kata sandi salah",
+		"2": "Operasi tidak valid pada keadaan ini.",
+		"3": "Anda di-ban dari server ini.",
+		"4": "Anda tidak menggunakan versi yang sama dengan server ini.",
+		"5": "{0} sudah ada di server.",
+		"7": "Pemain saat ini:",
+		"9": "mendapat",
+		"10": "Anda tidak di dalam tim!",
+		"11": "{0} mengaktifkan PvP!",
+		"12": "{0} menonaktifkan PvP!",
+		"13": "{0} tidak lagi di dalam tim!",
+		"14": "{0} telah bergabung tim merah!",
+		"15": "{0} telah bergabung tim hijau!",
+		"16": "{0} telah bergabung tim biru!",
+		"17": "{0} telah bergabung tim kuning!",
+		"18": "Selamat datang di",
+		"19": "{0} telah bergabung.",
+		"20": "{0} telah keluar.",
+		"22": "{0} telah bergabung tim pink!",
+		"23": "*{0} telah dibunuh {1} kali.",
+		"24": "*{0} telah dibunuh pemain lain {1} kali.",
+		"25": "{$LegacyMultiplayer.23}",
+		"26": "{$LegacyMultiplayer.24}"
+	}
+}
