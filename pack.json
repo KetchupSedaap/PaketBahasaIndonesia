@@ -1,9 +1,9 @@
 {
-    "Name": "Paket Bahasa Indonesia",
-    "Author": "Leapofod, eikosimino, Karpsushi",
-    "Description": "Paket ini mengganti Bahasa Inggris Terraria dengan terjemahan Bahasa Indonesia.\n\nPerkembangan dari Paket ini:\n[ ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ] 0%",
-    "Version": {
-        "major": 1,
-        "minor": 0
-    }
+	"Name": "Paket Bahasa Indonesia",
+	"Author": "Rynk",
+	"Description": "Paket ini mengganti Bahasa Inggris Terraria dengan terjemahan Bahasa Indonesia.\n\nKontributor:\nLeapofod\neikosimino\nKarpsushi\nlordofthesticks\nHeinzABC\nYello",
+	"Version": {
+		"major": 0,
+		"minor": 1
+	}
 }
