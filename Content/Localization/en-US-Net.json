@@ -1,11 +1,11 @@
 {
 	"Net": {
 		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Kekuatan kuno mencegah Anda mengakses lokasi ini . . .",
-		"CannotTeleportToPylonBecauseNotEnoughNPCs": "Penduduk di dekat tiang ini tidak cukup untuk mengaksesnya",
-		"CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon": "Penduduk di dekat tiang saat ini tidak cukup",
-		"CannotTeleportToPylonBecauseNotMeetingBiomeRequirements": "Tiang ini tidak berada di bioma yang tepat",
-		"CannotTeleportToPylonBecausePlayerIsNotNearAPylon": "Anda kurang dekat ke tiang untuk berteleportasi menggunakan jaringan tiang",
-		"CannotTeleportToPylonBecauseThereIsDanger": "Kalahkan ancaman yang ada sebelum Anda bisa menggunakan jaringan tiang!",
+		"CannotTeleportToPylonBecauseNotEnoughNPCs": "Penduduk di dekat pylon ini tidak cukup untuk mengaksesnya",
+		"CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon": "Penduduk di dekat pylon saat ini tidak cukup",
+		"CannotTeleportToPylonBecauseNotMeetingBiomeRequirements": "Pylon ini tidak berada di bioma yang tepat",
+		"CannotTeleportToPylonBecausePlayerIsNotNearAPylon": "Anda kurang dekat ke pylon untuk berteleportasi menggunakan jaringan pylon",
+		"CannotTeleportToPylonBecauseThereIsDanger": "Kalahkan ancaman yang ada sebelum Anda bisa menggunakan jaringan pylon!",
 		"CheatingInvalid": "Upaya curang terdeteksi: Kick-out tidak sah",
 		"CheatingLiquidSpam": "Upaya curang terdeteksi: Spam cairan",
 		"CheatingProjectileSpam": "Upaya curang terdeteksi: Spam proyektil",
