@@ -1,0 +1,11 @@
+{
+	"ItemName": {
+		"PlatinumCoin": "Koin Platina",
+		"SilverCoin": "Koin Perak",
+		"Umbrella": "Payung",
+		"UmbrellaHat": "Topi Payung"
+	},
+	"ItemTooltip": {
+		"Umbrella": "Kamu akan jatuh lebih pelan selagi memegang ini"
+	}
+}
