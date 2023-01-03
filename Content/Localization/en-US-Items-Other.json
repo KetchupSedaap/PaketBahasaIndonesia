@@ -1,8 +1,16 @@
 {
-	"ItemName": {
-		"Binoculars": "Teropong"
+	"ItemVariant": {
+		"DisabledBossSummon": "Summon Bos Dinonaktifkan",
+		"Enabled": "Diaktifkan",
+		"Rebalanced": "Diseimbangkan Kembali",
+		"Stronger": "Lebih Kuat",
+		"Weaker": "Lebih Lemah"
 	},
-	"ItemTooltip": {},
+	"ItemVariantCondition": {
+		"EverythingWorld": "Benih 'Everything'",
+		"GetGoodWorld": "Benih 'Get Good'",
+		"RemixWorld": "Benih 'Remix'"
+	},
 	"CommonItemTooltip": {
 		"BannerBonus": "Pemain sekitar mendapat bonus terhadap: ",
 		"BannerBonusReduced": "Pemain sekitar mendapat bonus kecil terhadap: ",
@@ -31,6 +39,7 @@
 		"RightClickToClose": "<right> untuk menutup",
 		"RightClickToOpen": "<right> untuk membuka",
 		"SecondDuration": "Berdurasi {0} detik",
+		"Sentry": "Menempatkan sebuah sentry",
 		"SpecialCrafting": "Digunakan untuk crafting khusus",
 		"String": "Meningkatkan jangkauan yoyo",
 		"TeleportationPylon": "Teleportasi ke pylon lain ketika 2 penduduk berada sekitar\nAnda hanya bisa meletakkan satu dari masing-masing jenis dan di bioma yang cocok",
@@ -50,7 +59,7 @@
 		"6": "Luar biasa cepat",
 		"7": "Sangat cepat",
 		"8": "Cepat",
-		"9": "Kecepatan biasa",
+		"9": "Kecepatan rata-rata",
 		"10": "Lambat",
 		"11": "Sangat lambat",
 		"12": "Teramat lambat",
@@ -59,7 +68,7 @@
 		"15": "Knockback teramat lemah",
 		"16": "Knockback sangat lemah",
 		"17": "Knockback lemah",
-		"18": "Knockback biasa",
+		"18": "Knockback rata-rata",
 		"19": "Knockback kuat",
 		"20": "Knockback sangat kuat",
 		"21": "Knockback teramat kuat",
