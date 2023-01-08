@@ -1,7 +1,9 @@
 {
 	"ItemName": {
+		"Peach": "Persik",
 		"PlatinumCoin": "Koin Platina",
 		"SilverCoin": "Koin Perak",
+		"Starfruit": "Belimbing",
 		"Umbrella": "Payung",
 		"UmbrellaHat": "Topi Payung"
 	},
