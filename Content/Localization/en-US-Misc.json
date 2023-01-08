@@ -1,0 +1,33 @@
+{
+	"Misc": {
+		"Balloon": "Balon",
+		"BlizzardBalloon": "Balon Badai Salju",
+		"CanBePlacedInVanity": "Dapat dipakai di tempat vanity",
+		"CloudBalloon": "Balon Awan",
+		"CombatBookUsed": "Pengetahuan buku ini memperkuat penduduk Anda!",
+		"CritterGuides": "Panduan untuk Persahabatan Makhluk",
+		"EndedVictoryHalloween": "Jiwa Halloween beristirahat...",
+		"EndedVictoryXmas": "Jiwa Natal memudar...",
+		"ForceWaterSettling": "Memaksa air untuk tenang.",
+		"FrostMoonScore": "Frost Moon telah berlalu! (Skor: {0})",
+		"Fruit": "Buah",
+		"LicenseBunnyUsed": "Kelinci Anda sedang dikirim...",
+		"LicenseCatUsed": "Kucing Anda sedang dikirim...",
+		"LicenseDogUsed": "Anjing Anda sedang dikirim...",
+		"LicenseSlimeUsed": "Slime Anda sedang dikirim...",
+		"Macaw": "Makaw",
+		"NatureGuides": "Panduan untuk Melestarikan Lingkungan",
+		"PeddlersSatchelUsed": "Tas Pedagang Berjalan mendalam!",
+		"PetExchangeFail": "Tunggu untuk hewan peliharaanmu datang sebelum menukarnya!",
+		"PetExchangeSuccess": "Pertukaran Hewan Peliharaan: Berhasil!",
+		"PumpkinMoonScore": "Pumpkin Moon telah berlalu! (Skor: {0})",
+		"ResolutionChanged": "Resolusi diganti ke: {0}x{1}.",
+		"SandstormBalloon": "Balon Badai Pasir",
+		"ShortDays": "h",
+		"ShortHours": "j",
+		"ShortSeconds": "d",
+		"StartedVictoryHalloween": "Jiwa Halloween menembus udara...",
+		"StartedVictoryXmas": "Jiwa Natal menyebar keceriaan...",
+		"WaterSettled": "Air telah ditenangkan."
+	}
+}
