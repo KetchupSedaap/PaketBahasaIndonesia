@@ -1,12 +1,67 @@
 {
 	"GameUI": {
+		"BaitRequired": "Perlu umpan untuk memancing",
 		"Bestiary": "Buka Bestiary",
+		"Buy": "Beli",
+		"BuyWithValue": "Beli ({0})",
+		"Cancel": "Batal",
+		"Change": "Ubah",
+		"Clear": "Cerah",
+		
+		"Cloudy": "Berawan",
 		"CompassCenter": "Tengah",
-		"CompassEast": "{0} kaki Timur",
-		"CompassWest": "{0} kaki Barat",
+		"CompassEast": "Timur, {0} kaki",
+		"CompassWest": "Barat, {0} kaki",
+		"CraftingWindow": "Jendela Crafting",
+		"Depth": "{0} kaki di",
+		"DepthLevel": "Tingkat",
+		"Disabled": "Dinonaktifkan",
+		"DPS": "{0} damage per detik",
 		"EastWind": " ({0} mil/jam T)",
+		"Emote": "Buka Jendela Emote",
+		"Enabled": "Diaktifkan",
+		"EnemiesNearby": "{0} musuh terdeteksi!",
+		"FishingWarning": "Bahaya!",
+		"HairStyle": "Gaya Rambut",
+		"HeavyRain": "Hujan Deras",
+		"Hidden": "Tersembunyi",
+		
+		"LayerSpace": "Langit",
+		"LayerSurface": "Darat",
+		"LayerUnderground": "Bawah Tanah",
+		"LayerCaverns": "Cavern",
+		"LayerUnderworld": "Underworld",
+		
+		"MostlyCloudy": "Berawan Tebal",
+		"Music": "Musik",
+		
+		"NoEnemiesNearby": "Tak ada musuh terdeteksi",
+		"NoKillCount": "Kill count tidak tersedia",
+		"NoRareCreatures": "Tak ada makhluk langka",
+		"NotEnoughWater": "Tidak Cukup Air!",
+		"NotificationsOptionsCategory": "Notifikasi",
+		"NoTreasureNearby": "Tak ada harta terdeteksi",
+		
+		"OneEnemyNearby": "1 musuh terdeteksi!",
+		"OreDetected": "{0} terdeteksi!",
+		"Overcast": "Mendung",
+		"PainterDecor": "Dekor",
+		"PartlyCloudy": "Cerah Berawan",
+		"QualityHigh": "Tinggi",
+		"QualityLow": "Rendah",
+		"QualityMedium": "Sedang",
+		"QualityOff": "Mati",
+		
+		"Sandstorm": "Badai Pasir",
+		"SettingsMenu": "Menu Setelan",
+		"SortInventory": "Urutkan Penyimpanan",
 		"Speed": "{0} mil/jam",
+		"Storm": "Badai",
+		"StormEffects": "Efek Badai: {0}",
+		
 		"UIScale": "Skala UI: {0}% ({1}%)",
+		
+		"WaveQuality": "Kualitas Riak: {0}",
 		"WestWind": " ({0} mil/jam B)"
 	}
 }

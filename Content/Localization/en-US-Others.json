@@ -28,9 +28,9 @@
 	"DungeonDefenders2": {
 		"BartenderWarning": "Kristal Eternia menolak daerah ini dan langsung lepas, <Tavernkeep> menyebutkan kristal ini sebaiknya diletak di daerah datar yang luas...",
 		"CantSummonTower": "Sepertinya ini tidak bisa bekerja tanpa Kristal Eternia didekatnya...",
-		"InvasionLose": "The Old One's Army berhasil menang...",
-		"InvasionStart": "The Old One's Army mendekat!",
-		"InvasionWin": "The Old One's Army telah ditaklukkan!",
+		"InvasionLose": "Old One's Army berhasil menang...",
+		"InvasionStart": "Old One's Army mendekat!",
+		"InvasionWin": "Old One's Army telah ditaklukkan!",
 		"WaveComplete": "Serangan Tertahan!",
 		"WaveCompleteFirst": "Serangan Tertahan! Berinteraksi dengan kristal untuk mempercepat gelombang berikutnya!"
 	},

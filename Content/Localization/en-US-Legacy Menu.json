@@ -1,8 +1,10 @@
 {
 	"LegacyMenu": {
 		"0": "Jalankan aplikasi baru Terraria untuk bergabung!",
-		"1": "Berjalan pada port",
+		"1": "Berjalan pada port ",
+		
 		"3": "Server Membutuhkan Kata Sandi:",
+		
 		"5": "Kembali",
 		"6": "Batal",
 		"7": "Masukkan Kata Sandi Server:",
@@ -10,27 +12,73 @@
 		"9": "Gagal memuat!",
 		"10": "Muat Cadangan",
 		"11": "Tidak ada cadangan yang ditemukan",
-		"12": "Bermain Sendiri",
-		"13": "Bermain Bersama",
+		
+		
 		"14": "Pengaturan",
 		"15": "Keluar",
+		"16": "Buat Karakter",
+		"17": "Hapus",
+		"18": "Rambut",
+		"19": "Mata",
+		"20": "Kulit",
+		"21": "Pakaian",
+		"22": "Lelaki",
+		"23": "Perempuan",
+		
+		
+		
+		"27": "Acak",
+		"28": "Buat",
+		"29": "Karakter Hardcore mati selamanya.",
+		"30": "Karakter Mediumcore menjatuhkan item ketika mati.",
+		"31": "Karakter Classic menjatuhkan koin ketika mati.",
+		"32": "Pilih kesulitan",
+		
+		
+		"35": "Celana",
+		"36": "Sepatu",
+		"37": "Rambut",
+		"38": "Warna Rambut",
+		"39": "Warna Mata",
+		"40": "Warna Kulit",
+		"41": "Warna Shirt",
+		"42": "Warna Undershirt",
+		"43": "Warna Celana",
+		"44": "Warna Sepatu",
+		"45": "Masukkan Nama Karakter:",
+		"46": "Hapus",
+		"47": "Buat Dunia",
+		"48": "Masukkan Nama Dunia:",
+		
 		"51": "Resolusi",
 		"52": "Paralaks",
+		
+		"55": "Pencahayaan: Berwarna",
+		"56": "Pencahayaan: Putih",
+		"57": "Pencahayaan: Retro",
+		"58": "Pencahayaan: Trippy",
 		"59": "Kualitas: Otomatis",
 		"60": "Kualitas: Tinggi",
 		"61": "Kualitas: Sedang",
 		"62": "Kualitas: Rendah",
+		
+		"64": "Warna Kursor",
+		"66": "Kontrol",
+		
+		"67": "Simpan Otomatis Nonaktif",
+		"68": "SImpan Otomatis Aktif",
+		
 		"71": "Teks Pengambilan Aktif",
 		"72": "Teks Pengambilan Nonaktif",
 		"73": "Resolusi Layar Penuh",
-		"74": "Naik",
-		"75": "Turun",
-		"76": "Kiri",
-		"77": "Kanan",
-		"78": "Lompat",
-		"79": "Lempar",
-		"80": "Penyimpanan",
-		"85": "Pilih Otomatis",
+		
+		
+		
+		
+		
+		
+		
+		
 		"89": "Masukkan Alamat IP Server:",
 		"90": "Masukkan Port Server:",
 		"91": "Pilih ukuran dunia:",
@@ -48,6 +96,7 @@
 		"103": "Bahasa",
 		"104": "Ya",
 		"105": "Tidak",
+		
 		"107": "Aktifkan Layar Penuh",
 		"108": "Perbesar",
 		"109": "Perkecil",
@@ -56,18 +105,35 @@
 		"112": "Peta Diaktifkan",
 		"113": "Peta Dinonaktifkan",
 		"114": "Umum",
+		"115": "Pengaturan Peta",
 		"116": "Pencahayaan Multicore:",
 		"117": "Nonaktif",
 		"118": "Tutup Menu",
+		"119": "Suasana:",
 		"120": "Kursor Pintar",
 		"121": "Mode Kursor Pintar: Aktifkan",
 		"122": "Mode Kursor Pintar: Tahan",
+		
+		
+		
+		
+		
 		"128": "Pratinjau Penempatan: Aktif",
 		"129": "Pratinjau Penempatan: Nonaktif",
 		"130": "Tunggangan",
 		"131": "Pencapaian",
+		
+		
 		"134": "Terapkan",
 		"135": "Pengaturan Server",
+		
+		
+		
+		
+		"140": "Teman Dapat Mengundang: Ya",
+		"141": "Teman Dapat Mengundang: Tidak",
+		"142": "Perbolehkan Teman dari Teman: Tidak",
+		"143": "Perbolehkan Teman dari Teman: Ya",
 		"144": "Mulai",
 		"145": "Bergabung melalui Steam",
 		"146": "Bergabung melalui IP",
@@ -79,18 +145,38 @@
 		"152": "Lompat",
 		"153": "Lempar",
 		"154": "Penyimpanan",
+		
+		
+		
+		
+		
 		"160": "Pilih Otomatis",
 		"161": "Kursor Pintar",
+		
+		
+		"164": "Kontrol Gameplay",
+		"165": "Kontrol Peta",
+		"166": "Kontrol Hotbar",
 		"168": "Perbesar",
 		"169": "Perkecil",
-		"195": "<Tidak Terikat>",
+		"170": "Turunkan Transparansi",
+		"171": "Tingkatkan Transparansi",
+		
+		
+		
 		"210": "Antarmuka",
 		"211": "Kata Sandi: Tampak",
 		"212": "Kata Sandi: Tersembunyi",
 		"213": "Prioritas Kursor Pintar: Beliung -> Kapak",
 		"214": "Prioritas Kursor Pintar: Kapak -> Beliung",
+		
+		
 		"217": "Warna Pembatas Kursor",
 		"218": "Kursor",
+		"219": "Kontrol",
+		"220": "Mengaktifkan Set Bonus: Atas",
+		"221": "Mengaktifkan Set Bonus: Bawah",
+		
 		"223": "Pembuangan Cepat: Shift Kiri",
 		"224": "Pembuangan Cepat: Control Kiri",
 		"241": "Instruksi Gamepad Nonaktif",

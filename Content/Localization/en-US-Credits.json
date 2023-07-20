@@ -6,13 +6,13 @@
 		"1": "Pencipta"
 	},
 	"CreditsRollCategory_Designer": {
-		"1": "Disainer"
+		"1": "Desainer"
 	},
 	"CreditsRollCategory_ExecutiveProducer": {
 		"1": "Produser Eksekutif"
 	},
 	"CreditsRollCategory_Graphics": {
-		"1": "Grafis"
+		"1": "Grafik"
 	},
 	"CreditsRollCategory_Marketing": {
 		"1": "Pemasaran"
@@ -27,7 +27,7 @@
 		"1": "Humas"
 	},
 	"CreditsRollCategory_QualityAssurance": {
-		"1": "Asuransi Kualitas"
+		"1": "Penjamin Kualitas"
 	},
 	"CreditsRollCategory_Sound": {
 		"1": "Suara"
